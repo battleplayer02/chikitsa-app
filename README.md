@@ -1,1 +1,1 @@
-[embed]readme.pdf[/embed]
+[embed]./readme.pdf[/embed]
